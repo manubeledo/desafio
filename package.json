@@ -1,0 +1,14 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "desafioexpress",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Manuel Beledo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
