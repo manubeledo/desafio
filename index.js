@@ -36,7 +36,6 @@ app.get('/productos', (req, res) => {
     getAll()
 })
 
-
 app.get('/productoRandom', (req, res) => {
     async function getRandom(){
         try{
