@@ -38,6 +38,8 @@ app.get('/', (req, res) => {
     </head>
     <body>
         <h1>Desafio de la clase de servidor con express</h1>
+        <button onclick="window.location.href='/productos'">productos</button>
+        <button onclick="window.location.href='/productos'">productorandom</button>
     </body>
     </html>`)
 })
